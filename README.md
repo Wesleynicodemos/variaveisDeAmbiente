@@ -6,7 +6,7 @@ Elas geralmente guardam:
  - Portas;
  - URLs de banco de dados;
 
-###Por que usamos?
+### Por que usamos?
  - segurança: Não precisa deixar senhas expostas no código.
  - flexibilidade: Pode mudar os valores sem alterar o código.
  - facilidade em ambientes diferentes, podendo ter valores para desenvolvimento e valores para produção.
